@@ -1,5 +1,5 @@
 x=10
-y=30
+y=3
 temp=x
 x=y
 y=temp
